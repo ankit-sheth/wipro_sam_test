@@ -14,7 +14,7 @@
 
 1. npm install
 2. npn run test (for now, do the unit test for one file (business logic file) only with mocking, if time permits then can do for service and all other)
-3. npm run functional (for now, use the same port and database, if time permits then can do with another "unit_test" database)
+3. npm run functional 
 4. npm run start  # to start the application, run the application on 3000 port, need to change then update port in config/config.js file
 ===================================================================================================================
 
